@@ -4,23 +4,23 @@
 
 -my school schedule
 
- 1. gym
- 2. sep
- 3. spanish
- 4. gobal history
- 5. writing
- 6. lunch
- 7. cem
- 8. math
+ 1. Gym
+ 2. SEP
+ 3. Spanish
+ 4. Gobal History
+ 5. Writing
+ 6. Lunch
+ 7. Chem
+ 8. Math
 
  -----------------------------------------------------
 
-## my school email is
+## My school email is
 #### angel1251@hstat.org
 
 ------------------------------------------------------
 
-#### i also like playing wiht my xbox one x
+#### I also like playing wiht my xbox one x
 
-##### and my favtorie car is the gtr skyline r34
+##### My favtorie car is the gtr skyline r34
 
